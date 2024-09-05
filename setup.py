@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="pyenergyaspects",
-    version="0.0.2",
+    version="0.0.3",
     author="aeorxc",
     description="Wrapper around Energy Aspects API",
     url="https://github.com/aeorxc/pyenergyaspects",
